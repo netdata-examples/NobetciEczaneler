@@ -1,4 +1,3 @@
-# NobetciEczaneler
 Nöbetçi Eczaneler Uygulaması
 =============
 Bu uygulamayla Türkiye üzerinde bulunan bütün şehirlerin bilgilerini görüntüleyebilirsiniz. Veriler netdata.com üzerinden xml olarak çekilmektedir.
