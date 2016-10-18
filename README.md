@@ -11,4 +11,4 @@ Netdata size birden fazla veri çekme yöntemi sunmaktadır. XML,JSON,SOAP Webse
 
 AccPo ile Projeye Veri Ekleme / Silme / Güncelleme
 =============
-Netdata'nın sizlere sunduğu çözümlerden bir taneside AccPo ile verilerinizi dışardan göndereceğiniz bir WebRequest ile değiştirebilmektir. [Burada](https://github.com/netdata-admin/NeredeNeVar/wiki/) AccPo'nun örnek kullanımı yer almaktadır.
+Netdata'nın sizlere sunduğu çözümlerden bir taneside AccPo ile verilerinizi dışardan göndereceğiniz bir WebRequest ile değiştirebilmektir.
